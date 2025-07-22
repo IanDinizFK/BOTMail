@@ -79,7 +79,7 @@ Na primeira vez que você tentar enviar um e-mail, o bot precisará da sua permi
 
 1.  Execute o bot no seu terminal:
     ```bash
-    python bot.py
+    python BOTMail.py
     ```
 2.  Navegue pelo menu e tente enviar um e-mail.
 3.  Uma **aba do seu navegador será aberta automaticamente**.
